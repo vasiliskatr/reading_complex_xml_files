@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<alerts>
+    <alert id="xmas-20200914-1">
+        <alertTime>2020-09-14T23:59:59.999-0400</alertTime>
+        <intensity>0</intensity>
+        <title>AFTER PROCESSING COMPLETE (HOUSE)</title>
+        <text>AFTER PROCESSING COMPLETE (HOUSE) - This alert signifies that the alerts for CHIXCA have completed processing on the available trading data. No further alerts will be generated on 14/09/2020.</text>
+        <sources>
+            <source>
+                <market>xmas</market>
+                <country>Bost</country>
+                <target/>
+            </source>
+        </sources>
+        <attachments/>
+        <comments>
+            <comment>
+                <time>2020-09-15T14:56:37.977+0000</time>
+                <author>joeblogs</author>
+                <text>Assigned to "joeblogs". Changed status to "Information Alert Only".</text>
+                <alertStatus>Information Alert Only</alertStatus>
+                <alertAssignee>joeblogs</alertAssignee>
+            </comment>
+        </comments>
+        <state>
+            <alertStatus>Information Alert Only</alertStatus>
+            <alertAssignee>joeblogs</alertAssignee>
+        </state>
+        <alertCount>1</alertCount>
+        <startTime>2020-09-14T23:59:59.999-0400</startTime>
+        <participants>
+            <house marketCode="xmas">015</house>
+        </participants>
+        <messages/>
+        <alertType>5652434329</alertType>
+        <attributes>
+            <item key="ALERT-PROCESSING-START-TIME" value="03:33:36.286"/>
+            <item key="ALERT-PROCESSING-START-DATE" value="15/09/2020"/>
+            <item key="ALERT-PROCESSING-END-TIME" value="03:37:02.432"/>
+            <item key="ALERT-PROCESSING-END-DATE" value="15/09/2020"/>
+            <item key="NUMBER-OF-ALERTS" value="1"/>
+        </attributes>
+    </alert>
+    <alert id="xmas-20200915-1">
+        <alertTime>2020-09-15T23:59:59.999-0400</alertTime>
+        <intensity>0</intensity>
+        <title>AFTER PROCESSING COMPLETE (HOUSE)</title>
+        <text>AFTER PROCESSING COMPLETE (HOUSE) - This alert signifies that the alerts for CHIXCA have completed processing on the available trading data. No further alerts will be generated on 15/09/2020.</text>
+        <sources>
+            <source>
+                <market>xmas</market>
+                <country>Bost</country>
+                <target/>
+            </source>
+        </sources>
+        <attachments/>
+        <comments>
+            <comment>
+                <time>2020-09-21T17:49:18.123+0000</time>
+                <author>eltonjoh</author>
+                <text>Assigned to "eltonjoh". Changed status to "Information Alert Only".</text>
+                <alertStatus>Information Alert Only</alertStatus>
+                <alertAssignee>eltonjoh</alertAssignee>
+            </comment>
+        </comments>
+        <state>
+            <alertStatus>Information Alert Only</alertStatus>
+            <alertAssignee>eltonjoh</alertAssignee>
+        </state>
+        <alertCount>1</alertCount>
+        <startTime>2020-09-15T23:59:59.999-0400</startTime>
+        <participants>
+            <house marketCode="xmas">015</house>
+        </participants>
+        <messages/>
+        <alertType>5652434329</alertType>
+        <attributes>
+            <item key="ALERT-PROCESSING-START-TIME" value="03:31:54.044"/>
+            <item key="ALERT-PROCESSING-START-DATE" value="16/09/2020"/>
+            <item key="ALERT-PROCESSING-END-TIME" value="03:34:16.899"/>
+            <item key="ALERT-PROCESSING-END-DATE" value="16/09/2020"/>
+            <item key="NUMBER-OF-ALERTS" value="1"/>
+        </attributes>
+    </alert>
+	  <alert id="yyyy-20201208-1">
+        <alertTime>2020-12-08T23:59:59.999-0500</alertTime>
+        <intensity>0</intensity>
+        <title>AFTER PROCESSING COMPLETE (HOUSE)</title>
+        <text>AFTER PROCESSING COMPLETE (HOUSE) - This alert signifies that the alerts for gsydgsdu have completed processing on the available trading data. No further alerts will be generated on 08/12/2020.</text>
+        <sources>
+            <source>
+                <market>yyyy</market>
+                <country>Bost</country>
+                <target/>
+            </source>
+        </sources>
+        <attachments/>
+        <comments>
+            <comment>
+                <time>2020-12-29T16:13:03.611+0000</time>
+                <author>apeters</author>
+                <text>Changed status to "Information Alert Only".</text>
+                <alertStatus>Information Alert Only</alertStatus>
+                <alertAssignee></alertAssignee>
+            </comment>
+        </comments>
+        <state>
+            <alertStatus>Information Alert Only</alertStatus>
+            <alertAssignee></alertAssignee>
+        </state>
+        <alertCount>1</alertCount>
+        <startTime>2020-12-08T23:59:59.999-0500</startTime>
+        <participants>
+            <house marketCode="yyyy">15</house>
+        </participants>
+        <messages/>
+        <alertType>5652434329</alertType>
+        <attributes>
+            <item key="ALERT-PROCESSING-START-TIME" value="23:21:52.282"/>
+            <item key="ALERT-PROCESSING-START-DATE" value="25/12/2020"/>
+            <item key="ALERT-PROCESSING-END-TIME" value="23:28:44.668"/>
+            <item key="ALERT-PROCESSING-END-DATE" value="25/12/2020"/>
+            <item key="NUMBER-OF-ALERTS" value="1"/>
+        </attributes>
+    </alert>
+    <alert id="yyyy-20201209-1">
+        <alertTime>2020-12-09T23:59:59.999-0500</alertTime>
+        <intensity>0</intensity>
+        <title>AFTER PROCESSING COMPLETE (HOUSE)</title>
+        <text>AFTER PROCESSING COMPLETE (HOUSE) - This alert signifies that the alerts for gsydgsdu have completed processing on the available trading data. No further alerts will be generated on 09/12/2020.</text>
+        <sources>
+            <source>
+                <market>yyyy</market>
+                <country>Bost</country>
+                <target/>
+            </source>
+        </sources>
+        <attachments/>
+        <comments>
+            <comment>
+                <time>2020-12-29T16:13:03.611+0000</time>
+                <author>apeters</author>
+                <text>Changed status to "Information Alert Only".</text>
+                <alertStatus>Information Alert Only</alertStatus>
+                <alertAssignee></alertAssignee>
+            </comment>
+        </comments>
+        <state>
+            <alertStatus>Information Alert Only</alertStatus>
+            <alertAssignee></alertAssignee>
+        </state>
+        <alertCount>1</alertCount>
+        <startTime>2020-12-09T23:59:59.999-0500</startTime>
+        <participants>
+            <house marketCode="yyyy">15</house>
+        </participants>
+        <messages/>
+        <alertType>5652434329</alertType>
+        <attributes>
+            <item key="ALERT-PROCESSING-START-TIME" value="23:29:09.238"/>
+            <item key="ALERT-PROCESSING-START-DATE" value="25/12/2020"/>
+            <item key="ALERT-PROCESSING-END-TIME" value="23:38:45.235"/>
+            <item key="ALERT-PROCESSING-END-DATE" value="25/12/2020"/>
+            <item key="NUMBER-OF-ALERTS" value="1"/>
+        </attributes>
+    </alert>
+    <alert id="yyyy-20201210-1">
+        <alertTime>2020-12-10T23:59:59.999-0500</alertTime>
+        <intensity>0</intensity>
+        <title>AFTER PROCESSING COMPLETE (HOUSE)</title>
+        <text>AFTER PROCESSING COMPLETE (HOUSE) - This alert signifies that the alerts for gsydgsdu have completed processing on the available trading data. No further alerts will be generated on 10/12/2020.</text>
+        <sources>
+            <source>
+                <market>yyyy</market>
+                <country>Bost</country>
+                <target/>
+            </source>
+        </sources>
+        <attachments/>
+        <comments>
+            <comment>
+                <time>2021-01-04T17:47:45.746+0000</time>
+                <author>joeblogs</author>
+                <text>Assigned to "joeblogs". Changed status to "Information Alert Only".</text>
+                <alertStatus>Information Alert Only</alertStatus>
+                <alertAssignee>joeblogs</alertAssignee>
+            </comment>
+        </comments>
+        <state>
+            <alertStatus>Information Alert Only</alertStatus>
+            <alertAssignee>joeblogs</alertAssignee>
+        </state>
+        <alertCount>1</alertCount>
+        <startTime>2020-12-10T23:59:59.999-0500</startTime>
+        <participants>
+            <house marketCode="yyyy">15</house>
+        </participants>
+        <messages/>
+        <alertType>5652434329</alertType>
+        <attributes>
+            <item key="ALERT-PROCESSING-START-TIME" value="09:40:33.726"/>
+            <item key="ALERT-PROCESSING-START-DATE" value="01/01/2021"/>
+            <item key="ALERT-PROCESSING-END-TIME" value="09:49:49.386"/>
+            <item key="ALERT-PROCESSING-END-DATE" value="01/01/2021"/>
+            <item key="NUMBER-OF-ALERTS" value="1"/>
+        </attributes>
+    </alert>
+    <alert id="yyyy-20201211-1">
+        <alertTime>2020-12-11T23:59:59.999-0500</alertTime>
+        <intensity>0</intensity>
+        <title>AFTER PROCESSING COMPLETE (HOUSE)</title>
+        <text>AFTER PROCESSING COMPLETE (HOUSE) - This alert signifies that the alerts for gsydgsdu have completed processing on the available trading data. No further alerts will be generated on 11/12/2020.</text>
+        <sources>
+            <source>
+                <market>yyyy</market>
+                <country>Bost</country>
+                <target/>
+            </source>
+        </sources>
+        <attachments/>
+        <comments>
+            <comment>
+                <time>2021-01-04T17:47:45.746+0000</time>
+                <author>joeblogs</author>
+                <text>Assigned to "joeblogs". Changed status to "Information Alert Only".</text>
+                <alertStatus>Information Alert Only</alertStatus>
+                <alertAssignee>joeblogs</alertAssignee>
+            </comment>
+        </comments>
+        <state>
+            <alertStatus>Information Alert Only</alertStatus>
+            <alertAssignee>joeblogs</alertAssignee>
+        </state>
+        <alertCount>1</alertCount>
+        <startTime>2020-12-11T23:59:59.999-0500</startTime>
+        <participants>
+            <house marketCode="yyyy">15</house>
+        </participants>
+        <messages/>
+        <alertType>5652434329</alertType>
+        <attributes>
+            <item key="ALERT-PROCESSING-START-TIME" value="09:50:15.286"/>
+            <item key="ALERT-PROCESSING-START-DATE" value="01/01/2021"/>
+            <item key="ALERT-PROCESSING-END-TIME" value="09:58:08.435"/>
+            <item key="ALERT-PROCESSING-END-DATE" value="01/01/2021"/>
+            <item key="NUMBER-OF-ALERTS" value="1"/>
+        </attributes>
+    </alert>
+</alerts>
